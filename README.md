@@ -1,6 +1,6 @@
 # awesome-rss
 Collection of RSS feeds I follow
-
+----
 
 ### Linux
 - https://www.cyberciti.com/feed/
@@ -36,3 +36,8 @@ Collection of RSS feeds I follow
 - https://nakedsecurity.sophos.com/feed
 - https://threatpost.com/feed
 - https://www.malwarebytes.com/blog/feed/index.xml
+
+-------
+
+#### 🫡 Thanks to Contributors
+- [Santhosh Veer](https://github.com/mskian)
