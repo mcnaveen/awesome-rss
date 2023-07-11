@@ -39,6 +39,10 @@ Collection of RSS feeds I follow 🗂
 - https://threatpost.com/feed
 - https://www.malwarebytes.com/blog/feed/index.xml
 
+### SEO
+- https://ahrefs.com/blog/feed/
+- https://www.semrush.com/blog/feed/
+
 -------
 
 ## 🫡 Thanks to Contributors
