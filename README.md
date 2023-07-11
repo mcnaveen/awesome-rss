@@ -1,5 +1,7 @@
-# awesome-rss
-Collection of RSS feeds I follow
+# Awesome RSS 📖
+
+Collection of RSS feeds I follow 🗂
+
 ----
 
 ### Linux
@@ -39,5 +41,11 @@ Collection of RSS feeds I follow
 
 -------
 
-#### 🫡 Thanks to Contributors
+## 🫡 Thanks to Contributors
 - [Santhosh Veer](https://github.com/mskian)
+
+## LICENSE
+
+MIT
+
+
