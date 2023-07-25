@@ -20,6 +20,7 @@ Collection of RSS feeds I follow 🗂
 - https://www.labnol.org/rss.xml
 - https://www.smashingmagazine.com/feed
 - https://www.makeuseof.com/feed/
+- https://joshghent.com/rss.xml
 
 ### Tech Updates
 - https://mashable.com/feeds/rss/all
