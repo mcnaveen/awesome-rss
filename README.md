@@ -30,7 +30,7 @@ Collection of RSS feeds I follow 🗂
 
 ### Development
 - https://phppot.com/feed/
-- https://css-tricks.com/feed
+- https://css-tricks.com/feed/
 - https://dev.to/feed
 - https://code.tutsplus.com/posts.atom
 
@@ -51,5 +51,7 @@ Collection of RSS feeds I follow 🗂
 - [Santhosh Veer](https://github.com/mskian)
 
 ## LICENSE
+
 MIT
+
 
