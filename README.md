@@ -26,6 +26,7 @@ Collection of RSS feeds I follow 🗂
 - https://mashable.com/feeds/rss/all
 - https://techcrunch.com/feed/
 - https://www.theverge.com/rss/frontpage
+- https://joho-todai.com/en/rss/
 
 ### Development
 - https://phppot.com/feed/
